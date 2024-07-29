@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+Meu Nomeé Ângela
 **Angelajanuario/Angelajanuario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![image](https://github.com/user-attachments/assets/13e86ae8-cd39-43b0-ba3c-d78e96a69b2f)
